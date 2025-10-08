@@ -1,1 +1,3 @@
-
+sqlite3 mydata.db
+.mode csv
+.import yourfile.csv tablename
